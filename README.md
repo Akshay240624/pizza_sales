@@ -52,8 +52,11 @@ This SQL project analyzes pizza sales data to extract valuable business insights
   # Pizza Data Queries
 
 -- 🔍 Total orders and total revenue — to understand overall business performance.
+
 -- 🍕 Top 5 most ordered pizza types — to identify customer favorites.
+
 -- 🕒 Hourly order distribution — to analyze peak sales times.
+
 -- 📈 Cumulative and category-wise revenue — to track financial growth and product contribution.
 
 ### 1. Retrieve the total number of orders placed.
