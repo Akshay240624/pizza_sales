@@ -1,6 +1,6 @@
 # 🍕  pizza_sales
 
-![Project Banner](https://github.com/Akshay240624/MAVEN_MOVIES/blob/main/code_output/banner.png)
+![Project Banner](https://github.com/Akshay240624/pizza_sales/blob/b1c8614274f59667e6352be724440094436cf1e9/code_output/banner.jpg)
 
 ## 📌 Project Overview
 This SQL project analyzes pizza sales data to extract valuable business insights. It covers total sales, most popular pizza types and sizes, peak order hours, and revenue trends. Advanced SQL techniques like joins, aggregations, subqueries, and window functions are used to generate detailed reports for decision-making.
