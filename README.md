@@ -58,7 +58,7 @@ This SQL project analyzes pizza sales data to extract valuable business insights
 
 ### 1. Retrieve the total number of orders placed.
 
-![Customer Info](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/email.png)
+![Customer Info](https://github.com/Akshay240624/pizza_sales/blob/main/code_output/1.%20Retrieve%20the%20total%20number%20of%20orders%20placed..png)
 
 ### 2. Calculate the total revenue generated from pizza sales
 ![Cheapest Rental](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/CHEAPEST_RENTAL.png)
